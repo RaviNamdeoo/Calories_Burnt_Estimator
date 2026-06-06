@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 
-xgb = pickle.load(open('artifacts\XGBoost_model.pkl','rb'))
+xgb = pickle.load(open('artifacts/XGBoost_model.pkl','rb'))
 
 st.title("Calories Burnt Estimator App")
 

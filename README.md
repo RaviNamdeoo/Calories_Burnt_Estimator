@@ -6,7 +6,11 @@ Built with **XGBoost** + **Streamlit**, trained on 15,000 exercise records.
  
 ---
 
-## 📸 App Preview
+✨[Click to open Deployed App](https://calories-burnt-estimation-system.streamlit.app/)
+
+---
+
+##  App Preview
  
 Enter your details as given below:
 - Gender
